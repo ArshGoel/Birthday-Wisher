@@ -1,0 +1,1 @@
+cscript script.vbs "E:\BIRTHDAY WISHER\ARSH\ARSH.xlsm"
